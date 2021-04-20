@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: irb120_robotiq85_gazebo
+Description: Description of irb120_robotiq85_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

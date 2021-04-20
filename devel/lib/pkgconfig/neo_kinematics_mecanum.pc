@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/devel
+
+Name: neo_kinematics_mecanum
+Description: Description of neo_kinematics_mecanum
+Version: 0.1.1
+Cflags: -I/home/student/catkin_ws/src/IndustrialRobotics/industrial_robots/neo_kinematics_mecanum/common/include
+Libs: -L${prefix}/lib -lneo_kinematics_mecanum
+Requires: std_msgs tf nav_msgs sensor_msgs

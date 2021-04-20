@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/install
+
+Name: ur5_gripper_demo
+Description: Description of ur5_gripper_demo
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

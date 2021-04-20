@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/devel
+
+Name: rqt_industrial_robot
+Description: Description of rqt_industrial_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
